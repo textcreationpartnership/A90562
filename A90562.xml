@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition for peace: or, The humble petition of divers well-affected magistrates, ministers, and other inhabitants in the City of London, and parts adjacent, presented to both Houses of Parliament on Wednesday the 12. of Iuly, 1648. With the ansvver of the Honorable House of Commons thereunto. Also, Alderman Fowk's speech, made to both Houses of Parliament, at the presenting of the said petition. Die Mercurii, 12 Julii, 1648. Ordered by the Commons assembled in Parliament, that the petition, and this answer unto it be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90562</idno>
+            <idno type="STC">Wing P1747</idno>
+            <idno type="STC">Thomason E452_38</idno>
+            <idno type="STC">ESTC R203330</idno>
+            <idno type="EEBO-CITATION">99863307</idno>
+            <idno type="PROQUEST">99863307</idno>
+            <idno type="VID">115499</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115499)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition for peace: or, The humble petition of divers well-affected magistrates, ministers, and other inhabitants in the City of London, and parts adjacent, presented to both Houses of Parliament on Wednesday the 12. of Iuly, 1648. With the ansvver of the Honorable House of Commons thereunto. Also, Alderman Fowk's speech, made to both Houses of Parliament, at the presenting of the said petition. Die Mercurii, 12 Julii, 1648. Ordered by the Commons assembled in Parliament, that the petition, and this answer unto it be forthwith printed and published. H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Fowke, John, d. 1662.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 14. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In support of the Solemn League and Covenant.</note>
+                  <note>This petition was published in the same month, with the response of the House of Lords, with the title: The humble petition of divers well affected magistrates, ministers, citizens and other inhabitants in the City of London, and parts adjacent.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115499:1" rendition="simple:additions"/>
+            <p>A PETITION FOR PEACE: OR, <hi>The humble Petition of divers well affected Ma<g ref="char:EOLhyphen"/>giſtrates, Miniſters, and other Inhabitants in the City of</hi> London, <hi>and parts adjacent,</hi>
+            </p>
+            <p>PRESENTED To both Houſes of PARLIAMENT on Wedneſday the 12. of <hi>July,</hi> 1648.</p>
+            <p>With the ANSVVER of the Honorable Houſe of Commons thereunto.</p>
+            <p>ALSO, Alderman <hi>Fowk</hi>'s SPEECH, made to both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, at the preſenting of the ſaid Petition.</p>
+            <p>Die Mercurii, 12 Julii, 1648.</p>
+            <p>
+               <hi>ORdered by the Commons aſſembled in Parliament, That the Petition, and this Anſwer unto it be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>H: Elſynge, Cler. Parl. D. Com.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>July</hi> 14. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="oration">
+            <pb facs="tcp:115499:2"/>
+            <pb n="3" facs="tcp:115499:2"/>
+            <head>Alderman <hi>Fowk</hi>'s Speech, made to both Houſes of Parliament, <hi>Iuly</hi> 12. 1648.</head>
+            <opener>
+               <salute>May it pleaſe you, Mr. Speaker,</salute>
+            </opener>
+            <p>DIvers Magiſtrates, Miniſters, Citizens, and other Inhabitants in the City of <hi>London</hi> and parts adja<g ref="char:EOLhyphen"/>cent, who have been, and ſtill do continue faithful to the Parliament of <hi>England</hi> (being very ſenſible of the great danger that the Parliament and all that have ad<g ref="char:EOLhyphen"/>hered to them are now in, and the cauſes thereof) have thought it ſeaſonable (in diſcharge of their duty to Almighty God and this Kingdom, and in purſuance of their Proteſtation, Vow and Covenant) by Petition, humbly to expreſs their ſence of our preſent condition, to pray, That you will adhere to, and not recede from thoſe firſt and juſt Principles, by which you have engaged all the honeſt well-affected people of the three Kingdoms to ſerve you; and to Declare, That the Petitioners, with many thouſands more, as formerly, ſo are ſtill ready, in purſuance of the ſaid Proteſtation, Vow and Covenant, with their Lives and Eſtates, to adventure all with you and your For<g ref="char:EOLhyphen"/>ces, in this Common Cauſe, againſt all oppoſition.</p>
+            <p>This Petition (Mr. Speaker) is the work of very few days, yet many thouſands have ſubſcribed it, and more have done the like; but the Petitioners wanted time to affix their Names hereunto: It is accompanied onely with Twenty of the Petitio<g ref="char:EOLhyphen"/>ners in obedience to your Order made to that purpoſe, and in regard of former inconveniences happened by a more nume<g ref="char:EOLhyphen"/>rous attending Petitions.</p>
+            <p>Of theſe Twenty perſons (Mr. Speaker) ſome are Magiſtrates of <hi>London</hi> and parts adjacent, ſome are Reverend Miniſters of the Aſſembly and City, ſome are Noble Colonels, and other Commanders, and the reſt all Gentlemen of good quality, by whoſe appointment, and in the Name of all that have ſubſcri<g ref="char:EOLhyphen"/>bed it, I do humbly preſent it to the grave and ſerious conſidera<g ref="char:EOLhyphen"/>tion of this Honorable Houſe.</p>
+            <div type="petition">
+               <pb n="4" facs="tcp:115499:3"/>
+               <head>To the Right Honorable, The <hi>Lords</hi> and <hi>Commons</hi> aſſembled IN PARLIAMENT:</head>
+               <argument>
+                  <p>
+                     <hi>The humble Petition of divers well-affected Magiſtrates, Miniſters, Ci<g ref="char:EOLhyphen"/>tizens, and other Inhabitants in the City of</hi> London <hi>and parts adjacent:</hi>
+                  </p>
+               </argument>
+               <opener>SHEWETH,</opener>
+               <p>THat we cannot but take notice of the many obſtructions you have met withal, whileſt with indefatigable care &amp; diligence you have been earneſtly laboring and endeavoring the delive<g ref="char:EOLhyphen"/>rance of the people of this Kingdom from thoſe many and great invaſions made, and much more in<g ref="char:EOLhyphen"/>tended upon our Religious and Civil Liberties, had not you (aſſiſted by the Almighty God) interpoſed; for which we cannot but render all humble and hearty thanks: and now finding the ſame evil ſpirit re<g ref="char:EOLhyphen"/>viving, and working much more ſtrongly and effectu<g ref="char:EOLhyphen"/>ally,
+<pb n="5" facs="tcp:115499:3"/>though much more cloſely and cunningly, un<g ref="char:EOLhyphen"/>der ſpecious pretences, attempting that by ſubtilty, which they through the goodneſs of our God could not obtain by power, uſing ſuch things as an oc<g ref="char:EOLhyphen"/>caſion and means to divide, which at firſt were or<g ref="char:EOLhyphen"/>dained for the uniting of all the godly and honeſt people of the three Kingdoms, upon ſafe and juſt Principles <hi>(viz.)</hi> the Proteſtation of <hi>May</hi> 1641. the Vow in <hi>June</hi> 1643. and the Solemn League and Covenant in <hi>February</hi> 1643. and other your ſeveral Votes and Declarations to the ſame effect: although your Petitioners do moſt heartily deſire a right un<g ref="char:EOLhyphen"/>derſtanding, and happy reconcilement between the King and Parliament, yet it is far from the thoughts of the Petitioners (and they hope of any others, that have lately out of good affection petitioned for a Perſonal Treaty) to make uſe of the Tumults, Com<g ref="char:EOLhyphen"/>motions, Revolts of Caſtles and Ships (thereby in<g ref="char:EOLhyphen"/>gaging the Kingdom in a new War) or of any other difficulties the Parliament hath been or may be expo<g ref="char:EOLhyphen"/>ſed unto, to precipitate their Counſels, or to deſtroy their Forces that now are or hereafter ſhall be rai<g ref="char:EOLhyphen"/>ſed, being (as the Petitioners humbly conceive) con<g ref="char:EOLhyphen"/>trary to their ſaid Proteſtation, Vow and Covenant, as it is alſo to neceſſitate the Parliament to a Treaty, until ſuch ſatisfaction and ſecurity be firſt given, as may attain the ends of our former ingagements.</p>
+               <div type="part">
+                  <p>Your Petitioners therefore humbly pray, That you will adhere to the ſaid Proteſtation. Vow and Covenant, &amp; to the conſtant tenor of all your for<g ref="char:EOLhyphen"/>mer Declarations, and not recede from thoſe firſt and juſt Principles <hi>(viz.)</hi> the ſafety of your ſelves,
+<pb n="6" facs="tcp:115499:4"/>and all that have and ſhall adhere to you, and the Reformation and Preſervation of Religion, and the maintenance and defence of our Laws and Liberties, which you have openly held forth to all the world, and by which you have engaged all the honeſt and well-affected people of the three Kingdoms, to ſerve you with their lives and eſtates, leſt you betray your ſelves and them to the mercileſs cruelties of thoſe that ſeek your and their deſtruction, and draw the blood of many innocent perſons upon you and yours.</p>
+                  <p>For prevention whereof, your Petitioners further humbly deſire, you will faithfully perſevere in the due proſecution of your ſaid juſt under<g ref="char:EOLhyphen"/>takings and engagements, and that ſuch a courſe by your wiſdoms may be taken for ſecurity and ſatisfaction to be given as aforeſaid, that neither His Majeſty, nor any other, may have occaſion or opportunity of renewing the old, or raiſing a new War; and in ſo doing, that God who hath hitherto owned you and your cauſe, wil aſſuredly do ſo ſtill, and we your Petitioners with many thouſands more (as formerly) ſo are ſtill ready in purſuance of the ſaid Proteſtation, Vow and Co<g ref="char:EOLhyphen"/>venant, with their lives and eſtates, to adventure all with you and your forces in this common cauſe, againſt all oppoſition.</p>
+                  <closer>And we ſhall ever pray, &amp;c.</closer>
+               </div>
+            </div>
+         </div>
+         <div type="response">
+            <pb n="7" facs="tcp:115499:4"/>
+            <head>THE ANSWER OF The Commons aſſembled in Parliament TO The aforeſaid <hi>Petition.</hi>
+            </head>
+            <p>THe Houſe being informed, That divers Aldermen, Ma<g ref="char:EOLhyphen"/>giſtrates, Miniſters, Officers of the Soldiery, Gentle<g ref="char:EOLhyphen"/>men and Citizens were at the door, deſirous to preſent a Pe<g ref="char:EOLhyphen"/>tition to the Houſe, they were called in, and Mr. Alderman <hi>Fowk,</hi> after ſome ſhort Preamble, did preſent the Petition, the which, the Petitioners being withdrawn, was read, and was entituled, <hi>The humble Petition of divers well-affected Magiſtrates, Miniſters, and other Inhabitants in the City of</hi> London, <hi>and parts adjacent.</hi>
+            </p>
+            <p>The Petitioners were again called in, and Mr. Speaker by the Command of the Houſe, delivered them an Anſwer to their Petition to this effect;</p>
+            <p>The Houſe hath received your Petition, and taken into their ſerious conſideration the matter thereof; They finde it, A Petition for Peace, for Peace indeed, ſuch a Peace as is pur<g ref="char:EOLhyphen"/>ſued by this Houſe, and all honeſt men, with preſervation of Religion, Laws and Liberties of the Subjects in a ſafe and well-grounded Peace, upon the Principles whereupon we firſt engaged.</p>
+            <p>They look alſo upon the ſeaſonableneſs of it, at ſuch time when mens Spirits, by the Artifice of Malignants, are ſo
+<pb n="8" facs="tcp:115499:5"/>heightned againſt the Parliament, that honeſt men ſcarce dare own the former Cauſe; and yet at this time you dare juſtifie your firſt Principles: And when there is ſcarce power to im<g ref="char:EOLhyphen"/>priſon any of our Enemies that either hath or doth now en<g ref="char:EOLhyphen"/>gage in theſe new and bloody Deſigns without Tumults and Reſcues, and yet now you dare avouch your former under<g ref="char:EOLhyphen"/>takings.</p>
+            <p>They alſo obſerve the Qualities of your perſons, Divers Aldermen, and great Magiſtrates of the City of <hi>London,</hi> many Reverend Miniſters, who have always held cloſe to the Cauſe, and many Noble Commanders and Officers, and other the Gentlemen of birth and quality, that have leſs valued their blood, then the hazard and loſs of ſo Noble an Undertaking; In which they perceive the conſtancy of your Reſolutions to the Cauſe of the Kingdom, and of your Affections to this Houſe.</p>
+            <p>I am commanded to give you their real and hearty thanks, and to Declare unto you, That they are reſolved to adhere to their firſt Principles, and with their Lives and Fortunes main<g ref="char:EOLhyphen"/>tain the ſame, and all that do adhere to them therein; and alſo do approve of your Petition, and the matter thereof: And they have further Commanded me to aſſure you, That in the compoſing of the Peace they are now upon, they will take care of the preſervation of Religion, Laws and Liberties of all thoſe that have or ſhall adhere and remain conſtant to theſe ends.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
